@@ -1,0 +1,8 @@
+🧾 --- Billing Invoice ---
+Item                   Qty     Amount
+------------------------------------------
+Wheat Flour             15     675.00
+Cooking Oil              5     750.00
+------------------------------------------
+Total Amount: Rs. 1425.00
+🧾 Thank you for shopping!
